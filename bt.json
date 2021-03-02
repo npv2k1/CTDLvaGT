@@ -1,0 +1,502 @@
+[
+    {
+        "id": "Hello World",
+        "name": "Hello World",
+        "url": "http://code.ptit.edu.vn/student/question/HELLO"
+    },
+    {
+        "id": "SẮP XẾP ĐỔI CHỖ TRỰC TIẾP",
+        "name": "SẮP XẾP ĐỔI CHỖ TRỰC TIẾP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06023"
+    },
+    {
+        "id": "SẮP XẾP CHỌN",
+        "name": "SẮP XẾP CHỌN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06024"
+    },
+    {
+        "id": "SẮP XẾP CHÈN",
+        "name": "SẮP XẾP CHÈN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06025"
+    },
+    {
+        "id": "SẮP XẾP NỔI BỌT",
+        "name": "SẮP XẾP NỔI BỌT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06026"
+    },
+    {
+        "id": "DÃY NGOẶC ĐÚNG DÀI NHẤT",
+        "name": "DÃY NGOẶC ĐÚNG DÀI NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07021"
+    },
+    {
+        "id": "CHUYỂN DANH SÁCH CẠNH SANG DANH SÁCH KỀ",
+        "name": "CHUYỂN DANH SÁCH CẠNH SANG DANH SÁCH KỀ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA09001"
+    },
+    {
+        "id": "CHUYỂN TỪ DANH SÁCH KỀ SANG DANH SÁCH CẠNH",
+        "name": "CHUYỂN TỪ DANH SÁCH KỀ SANG DANH SÁCH CẠNH",
+        "url": "http://code.ptit.edu.vn/student/question/DSA09002"
+    },
+    {
+        "id": "BIỂU DIỄN ĐỒ THỊ CÓ HƯỚNG.",
+        "name": "BIỂU DIỄN ĐỒ THỊ CÓ HƯỚNG.",
+        "url": "http://code.ptit.edu.vn/student/question/DSA09003"
+    },
+    {
+        "id": "DFS TRÊN ĐỒ THỊ VÔ HƯỚNG",
+        "name": "DFS TRÊN ĐỒ THỊ VÔ HƯỚNG",
+        "url": "http://code.ptit.edu.vn/student/question/DSA09004"
+    },
+    {
+        "id": "XÂU NHỊ PHÂN KẾ TIẾP",
+        "name": "XÂU NHỊ PHÂN KẾ TIẾP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01001"
+    },
+    {
+        "id": "TẬP CON KẾ TIẾP",
+        "name": "TẬP CON KẾ TIẾP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01002"
+    },
+    {
+        "id": "HOÁN VỊ KẾ TIẾP",
+        "name": "HOÁN VỊ KẾ TIẾP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01003"
+    },
+    {
+        "id": "XÂU AB CÓ ĐỘ DÀI N",
+        "name": "XÂU AB CÓ ĐỘ DÀI N",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01007"
+    },
+    {
+        "id": "SINH TỔ HỢP",
+        "name": "SINH TỔ HỢP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01004"
+    },
+    {
+        "id": "SINH HOÁN VỊ",
+        "name": "SINH HOÁN VỊ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01005"
+    },
+    {
+        "id": "HOÁN VỊ NGƯỢC",
+        "name": "HOÁN VỊ NGƯỢC",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01006"
+    },
+    {
+        "id": "XÂU NHỊ PHÂN CÓ K BIT 1",
+        "name": "XÂU NHỊ PHÂN CÓ K BIT 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA01008"
+    },
+    {
+        "id": "DÃY SỐ 1",
+        "name": "DÃY SỐ 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02001"
+    },
+    {
+        "id": "DÃY SỐ 2",
+        "name": "DÃY SỐ 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02002"
+    },
+    {
+        "id": "HOÁN VỊ XÂU KÝ TỰ",
+        "name": "HOÁN VỊ XÂU KÝ TỰ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02005"
+    },
+    {
+        "id": "DI CHUYỂN TRONG MÊ CUNG 1",
+        "name": "DI CHUYỂN TRONG MÊ CUNG 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02003"
+    },
+    {
+        "id": "DÃY CON TỔNG BẰNG K",
+        "name": "DÃY CON TỔNG BẰNG K",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02006"
+    },
+    {
+        "id": "TẬP CON BẰNG NHAU",
+        "name": "TẬP CON BẰNG NHAU",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05009"
+    },
+    {
+        "id": "DI CHUYỂN TRONG MA TRẬN",
+        "name": "DI CHUYỂN TRONG MA TRẬN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02012"
+    },
+    {
+        "id": "SẮP XẾP QUÂN HẬU 1",
+        "name": "SẮP XẾP QUÂN HẬU 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA02016"
+    },
+    {
+        "id": "ĐỔI TIỀN",
+        "name": "ĐỔI TIỀN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03001"
+    },
+    {
+        "id": "NHẦM CHỮ SỐ",
+        "name": "NHẦM CHỮ SỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03002"
+    },
+    {
+        "id": "TÌM MAX",
+        "name": "TÌM MAX",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03003"
+    },
+    {
+        "id": "TỔNG NHỎ NHẤT",
+        "name": "TỔNG NHỎ NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03004"
+    },
+    {
+        "id": "CHIA MẢNG THÀNH HAI MẢNG CON CÓ TỔNG LỚN NHẤT",
+        "name": "CHIA MẢNG THÀNH HAI MẢNG CON CÓ TỔNG LỚN NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03005"
+    },
+    {
+        "id": "SẮP XẾP THAM LAM",
+        "name": "SẮP XẾP THAM LAM",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03006"
+    },
+    {
+        "id": "NỐI DÂY 1",
+        "name": "NỐI DÂY 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03010"
+    },
+    {
+        "id": "SẮP ĐẶT XÂU KÝ TỰ 1",
+        "name": "SẮP ĐẶT XÂU KÝ TỰ 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03012"
+    },
+    {
+        "id": "SẮP ĐẶT XÂU KÝ TỰ 2",
+        "name": "SẮP ĐẶT XÂU KÝ TỰ 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03013"
+    },
+    {
+        "id": "MUA LƯƠNG THỰC",
+        "name": "MUA LƯƠNG THỰC",
+        "url": "http://code.ptit.edu.vn/student/question/DSA03015"
+    },
+    {
+        "id": "LŨY THỪA",
+        "name": "LŨY THỪA",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04001"
+    },
+    {
+        "id": "GẤP ĐÔI DÃY SỐ",
+        "name": "GẤP ĐÔI DÃY SỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04004"
+    },
+    {
+        "id": "ĐẾM DÃY",
+        "name": "ĐẾM DÃY",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04003"
+    },
+    {
+        "id": "DÃY XÂU FIBONACI",
+        "name": "DÃY XÂU FIBONACI",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04005"
+    },
+    {
+        "id": "LŨY THỪA ĐẢO",
+        "name": "LŨY THỪA ĐẢO",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04002"
+    },
+    {
+        "id": "DÃY CON LIÊN TIẾP CÓ TỔNG LỚN NHẤT",
+        "name": "DÃY CON LIÊN TIẾP CÓ TỔNG LỚN NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04010"
+    },
+    {
+        "id": "TÍNH FLOOR(X)",
+        "name": "TÍNH FLOOR(X)",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04015"
+    },
+    {
+        "id": "PHẦN TỬ THỨ K",
+        "name": "PHẦN TỬ THỨ K",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04016"
+    },
+    {
+        "id": "PHẦN TỬ KHÁC NHAU",
+        "name": "PHẦN TỬ KHÁC NHAU",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04017"
+    },
+    {
+        "id": "ĐẾM SỐ 0",
+        "name": "ĐẾM SỐ 0",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04018"
+    },
+    {
+        "id": "XÂU CON CHUNG DÀI NHẤT",
+        "name": "XÂU CON CHUNG DÀI NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05001"
+    },
+    {
+        "id": "DÃY CON TĂNG DÀI NHẤT",
+        "name": "DÃY CON TĂNG DÀI NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05004"
+    },
+    {
+        "id": "DÃY CON CÓ TỔNG BẰNG S",
+        "name": "DÃY CON CÓ TỔNG BẰNG S",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05008"
+    },
+    {
+        "id": "TỔ HỢP C(n, k)",
+        "name": "TỔ HỢP C(n, k)",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05012"
+    },
+    {
+        "id": "BẬC THANG",
+        "name": "BẬC THANG",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05013"
+    },
+    {
+        "id": "DÃY CON LẶP LẠI DÀI NHẤT",
+        "name": "DÃY CON LẶP LẠI DÀI NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05002"
+    },
+    {
+        "id": "SỐ BƯỚC ÍT NHẤT",
+        "name": "SỐ BƯỚC ÍT NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05005"
+    },
+    {
+        "id": "CON ẾCH",
+        "name": "CON ẾCH",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05025"
+    },
+    {
+        "id": "XEM PHIM",
+        "name": "XEM PHIM",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05026"
+    },
+    {
+        "id": "CÁI TÚI",
+        "name": "CÁI TÚI",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05027"
+    },
+    {
+        "id": "GIẢI MÃ",
+        "name": "GIẢI MÃ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA05029"
+    },
+    {
+        "id": "SẮP XẾP XEN KẼ",
+        "name": "SẮP XẾP XEN KẼ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06001"
+    },
+    {
+        "id": "SẮP XẾP THEO GIÁ TRỊ TUYỆT ĐỐI",
+        "name": "SẮP XẾP THEO GIÁ TRỊ TUYỆT ĐỐI",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06002"
+    },
+    {
+        "id": "ĐỔI CHỖ ÍT NHẤT",
+        "name": "ĐỔI CHỖ ÍT NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06003"
+    },
+    {
+        "id": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 1",
+        "name": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06004"
+    },
+    {
+        "id": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 2",
+        "name": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06005"
+    },
+    {
+        "id": "SẮP XẾP [0 1 2]",
+        "name": "SẮP XẾP [0 1 2]",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06006"
+    },
+    {
+        "id": "SẮP XẾP DÃY CON LIÊN TỤC",
+        "name": "SẮP XẾP DÃY CON LIÊN TỤC",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06007"
+    },
+    {
+        "id": "ĐẾM CẶP",
+        "name": "ĐẾM CẶP",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06008"
+    },
+    {
+        "id": "CẶP SỐ TỔNG BẰNG K",
+        "name": "CẶP SỐ TỔNG BẰNG K",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06009"
+    },
+    {
+        "id": "SẮP XẾP CHỮ SỐ",
+        "name": "SẮP XẾP CHỮ SỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06010"
+    },
+    {
+        "id": "TỔNG GẦN 0 NHẤT",
+        "name": "TỔNG GẦN 0 NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06011"
+    },
+    {
+        "id": "PHẦN TỬ LỚN NHẤT",
+        "name": "PHẦN TỬ LỚN NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06012"
+    },
+    {
+        "id": "SỐ LẦN XUẤT HIỆN",
+        "name": "SỐ LẦN XUẤT HIỆN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06013"
+    },
+    {
+        "id": "TỔNG CẶP SỐ NGUYÊN TỐ",
+        "name": "TỔNG CẶP SỐ NGUYÊN TỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06014"
+    },
+    {
+        "id": "MERGE SORT",
+        "name": "MERGE SORT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06015"
+    },
+    {
+        "id": "TÍCH LỚN NHẤT - NHỎ NHẤT",
+        "name": "TÍCH LỚN NHẤT - NHỎ NHẤT",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06016"
+    },
+    {
+        "id": "TRỘN HAI DÃY",
+        "name": "TRỘN HAI DÃY",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06017"
+    },
+    {
+        "id": "BỔ SUNG PHẦN TỬ",
+        "name": "BỔ SUNG PHẦN TỬ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06018"
+    },
+    {
+        "id": "SẮP XẾP THEO SỐ LẦN XUẤT HIỆN",
+        "name": "SẮP XẾP THEO SỐ LẦN XUẤT HIỆN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06019"
+    },
+    {
+        "id": "TÌM KIẾM",
+        "name": "TÌM KIẾM",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06020"
+    },
+    {
+        "id": "TÌM KIẾM TRONG DÃY SẮP XẾP VÒNG",
+        "name": "TÌM KIẾM TRONG DÃY SẮP XẾP VÒNG",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06021"
+    },
+    {
+        "id": "SỐ NHỎ NHẤT VÀ NHỎ THỨ HAI",
+        "name": "SỐ NHỎ NHẤT VÀ NHỎ THỨ HAI",
+        "url": "http://code.ptit.edu.vn/student/question/DSA06022"
+    },
+    {
+        "id": "NGĂN XẾP 1",
+        "name": "NGĂN XẾP 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07001"
+    },
+    {
+        "id": "NGĂN XẾP 2",
+        "name": "NGĂN XẾP 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07002"
+    },
+    {
+        "id": "KIỂM TRA BIỂU THỨC SỐ HỌC",
+        "name": "KIỂM TRA BIỂU THỨC SỐ HỌC",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07003"
+    },
+    {
+        "id": "ĐẾM SỐ DẤU NGOẶC ĐỔI CHIỀU",
+        "name": "ĐẾM SỐ DẤU NGOẶC ĐỔI CHIỀU",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07004"
+    },
+    {
+        "id": "BIẾN ĐỔI TIỀN TỐ - TRUNG TỐ",
+        "name": "BIẾN ĐỔI TIỀN TỐ - TRUNG TỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07009"
+    },
+    {
+        "id": "BIẾN ĐỐI TIỀN TỐ - HẬU TỐ",
+        "name": "BIẾN ĐỐI TIỀN TỐ - HẬU TỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07010"
+    },
+    {
+        "id": "TÍNH GIÁ TRỊ BIỂU THỨC HẬU TỐ",
+        "name": "TÍNH GIÁ TRỊ BIỂU THỨC HẬU TỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07013"
+    },
+    {
+        "id": "TÍNH GIÁ TRỊ BIỂU THỨC TIỀN TỐ",
+        "name": "TÍNH GIÁ TRỊ BIỂU THỨC TIỀN TỐ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA07014"
+    },
+    {
+        "id": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 1",
+        "name": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08001"
+    },
+    {
+        "id": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 2",
+        "name": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08002"
+    },
+    {
+        "id": "HÀNG ĐỢI HAI ĐẦU (DEQUEUE)",
+        "name": "HÀNG ĐỢI HAI ĐẦU (DEQUEUE)",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08003"
+    },
+    {
+        "id": "SỐ NHỊ PHÂN TỪ 1 ĐẾN N",
+        "name": "SỐ NHỊ PHÂN TỪ 1 ĐẾN N",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08005"
+    },
+    {
+        "id": "SỐ 0 VÀ SỐ 9",
+        "name": "SỐ 0 VÀ SỐ 9",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08006"
+    },
+    {
+        "id": "SỐ BDN 1",
+        "name": "SỐ BDN 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08007"
+    },
+    {
+        "id": "SỐ BDN 2",
+        "name": "SỐ BDN 2",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08008"
+    },
+    {
+        "id": "LIỆT KÊ CẠNH CẦU VỚI BFS",
+        "name": "LIỆT KÊ CẠNH CẦU VỚI BFS",
+        "url": "http://code.ptit.edu.vn/student/question/DSA09013"
+    },
+    {
+        "id": "ĐƯỜNG ĐI VÀ CHU TRÌNH EULER VỚI ĐỒ THỊ VÔ HƯỚNG",
+        "name": "ĐƯỜNG ĐI VÀ CHU TRÌNH EULER VỚI ĐỒ THỊ VÔ HƯỚNG",
+        "url": "http://code.ptit.edu.vn/student/question/DSA10004"
+    },
+    {
+        "id": "CHU TRÌNH EULER TRONG ĐỒ THỊ CÓ HƯỚNG",
+        "name": "CHU TRÌNH EULER TRONG ĐỒ THỊ CÓ HƯỚNG",
+        "url": "http://code.ptit.edu.vn/student/question/DSA10005"
+    },
+    {
+        "id": "KIỂM TRA NODE LÁ",
+        "name": "KIỂM TRA NODE LÁ",
+        "url": "http://code.ptit.edu.vn/student/question/DSA11008"
+    },
+    {
+        "id": "TÌM KIẾM NHỊ PHÂN",
+        "name": "TÌM KIẾM NHỊ PHÂN",
+        "url": "http://code.ptit.edu.vn/student/question/DSA04020"
+    },
+    {
+        "id": "SỐ LỘC PHÁT 1",
+        "name": "SỐ LỘC PHÁT 1",
+        "url": "http://code.ptit.edu.vn/student/question/DSA08017"
+    }
+]
