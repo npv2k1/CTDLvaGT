@@ -1,13 +1,8 @@
-<div class="submit__des">
-            <p>In ra màn hình dòng chữ:</p>
+# CODE
 
-<p>Hello PTIT.</p>
+#### DÃY CON TỔNG BẰNG K (DSA02006)
 
-<h3>Input</h3>
+![DSA02006](.\assets\img\DSA02006.jpg)
 
-<p>Không có dữ liệu vào</p>
+[Code](DSA02006.cpp)
 
-<h3>Output</h3>
-
-<p>Hello PTIT.</p>
-</div>
