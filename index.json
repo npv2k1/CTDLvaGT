@@ -1,0 +1,1252 @@
+[
+    {
+        "stt": "1",
+        "id": "HELLO",
+        "name": "Hello World"
+    },
+    {
+        "stt": "2",
+        "id": "DSA06023",
+        "name": "SẮP XẾP ĐỔI CHỖ TRỰC TIẾP"
+    },
+    {
+        "stt": "3",
+        "id": "DSA06024",
+        "name": "SẮP XẾP CHỌN"
+    },
+    {
+        "stt": "4",
+        "id": "DSA06025",
+        "name": "SẮP XẾP CHÈN"
+    },
+    {
+        "stt": "5",
+        "id": "DSA06026",
+        "name": "SẮP XẾP NỔI BỌT"
+    },
+    {
+        "stt": "6",
+        "id": "DSA07021",
+        "name": "DÃY NGOẶC ĐÚNG DÀI NHẤT"
+    },
+    {
+        "stt": "7",
+        "id": "DSA09001",
+        "name": "CHUYỂN DANH SÁCH CẠNH SANG DANH SÁCH KỀ"
+    },
+    {
+        "stt": "8",
+        "id": "DSA09002",
+        "name": "CHUYỂN TỪ DANH SÁCH KỀ SANG DANH SÁCH CẠNH"
+    },
+    {
+        "stt": "9",
+        "id": "DSA09003",
+        "name": "BIỂU DIỄN ĐỒ THỊ CÓ HƯỚNG."
+    },
+    {
+        "stt": "10",
+        "id": "DSA09004",
+        "name": "DFS TRÊN ĐỒ THỊ VÔ HƯỚNG"
+    },
+    {
+        "stt": "11",
+        "id": "DSA01001",
+        "name": "XÂU NHỊ PHÂN KẾ TIẾP"
+    },
+    {
+        "stt": "12",
+        "id": "DSA01002",
+        "name": "TẬP CON KẾ TIẾP"
+    },
+    {
+        "stt": "13",
+        "id": "DSA01003",
+        "name": "HOÁN VỊ KẾ TIẾP"
+    },
+    {
+        "stt": "14",
+        "id": "DSA01007",
+        "name": "XÂU AB CÓ ĐỘ DÀI N"
+    },
+    {
+        "stt": "15",
+        "id": "DSA01004",
+        "name": "SINH TỔ HỢP"
+    },
+    {
+        "stt": "16",
+        "id": "DSA01005",
+        "name": "SINH HOÁN VỊ"
+    },
+    {
+        "stt": "17",
+        "id": "DSA01006",
+        "name": "HOÁN VỊ NGƯỢC"
+    },
+    {
+        "stt": "18",
+        "id": "DSA01008",
+        "name": "XÂU NHỊ PHÂN CÓ K BIT 1"
+    },
+    {
+        "stt": "19",
+        "id": "DSA02001",
+        "name": "DÃY SỐ 1"
+    },
+    {
+        "stt": "20",
+        "id": "DSA02002",
+        "name": "DÃY SỐ 2"
+    },
+    {
+        "stt": "21",
+        "id": "DSA02005",
+        "name": "HOÁN VỊ XÂU KÝ TỰ"
+    },
+    {
+        "stt": "22",
+        "id": "DSA02003",
+        "name": "DI CHUYỂN TRONG MÊ CUNG 1"
+    },
+    {
+        "stt": "23",
+        "id": "DSA02006",
+        "name": "DÃY CON TỔNG BẰNG K"
+    },
+    {
+        "stt": "24",
+        "id": "DSA05009",
+        "name": "TẬP CON BẰNG NHAU"
+    },
+    {
+        "stt": "25",
+        "id": "DSA02012",
+        "name": "DI CHUYỂN TRONG MA TRẬN"
+    },
+    {
+        "stt": "26",
+        "id": "DSA02016",
+        "name": "SẮP XẾP QUÂN HẬU 1"
+    },
+    {
+        "stt": "27",
+        "id": "DSA03001",
+        "name": "ĐỔI TIỀN"
+    },
+    {
+        "stt": "28",
+        "id": "DSA03002",
+        "name": "NHẦM CHỮ SỐ"
+    },
+    {
+        "stt": "29",
+        "id": "DSA03003",
+        "name": "TÌM MAX"
+    },
+    {
+        "stt": "30",
+        "id": "DSA03004",
+        "name": "TỔNG NHỎ NHẤT"
+    },
+    {
+        "stt": "31",
+        "id": "DSA03005",
+        "name": "CHIA MẢNG THÀNH HAI MẢNG CON CÓ TỔNG LỚN NHẤT"
+    },
+    {
+        "stt": "32",
+        "id": "DSA03006",
+        "name": "SẮP XẾP THAM LAM"
+    },
+    {
+        "stt": "33",
+        "id": "DSA03010",
+        "name": "NỐI DÂY 1"
+    },
+    {
+        "stt": "34",
+        "id": "DSA03012",
+        "name": "SẮP ĐẶT XÂU KÝ TỰ 1"
+    },
+    {
+        "stt": "35",
+        "id": "DSA03013",
+        "name": "SẮP ĐẶT XÂU KÝ TỰ 2"
+    },
+    {
+        "stt": "36",
+        "id": "DSA03015",
+        "name": "MUA LƯƠNG THỰC"
+    },
+    {
+        "stt": "37",
+        "id": "DSA04001",
+        "name": "LŨY THỪA"
+    },
+    {
+        "stt": "38",
+        "id": "DSA04004",
+        "name": "GẤP ĐÔI DÃY SỐ"
+    },
+    {
+        "stt": "39",
+        "id": "DSA04003",
+        "name": "ĐẾM DÃY"
+    },
+    {
+        "stt": "40",
+        "id": "DSA04005",
+        "name": "DÃY XÂU FIBONACI"
+    },
+    {
+        "stt": "41",
+        "id": "DSA04002",
+        "name": "LŨY THỪA ĐẢO"
+    },
+    {
+        "stt": "42",
+        "id": "DSA04010",
+        "name": "DÃY CON LIÊN TIẾP CÓ TỔNG LỚN NHẤT"
+    },
+    {
+        "stt": "43",
+        "id": "DSA04015",
+        "name": "TÍNH FLOOR(X)"
+    },
+    {
+        "stt": "44",
+        "id": "DSA04016",
+        "name": "PHẦN TỬ THỨ K"
+    },
+    {
+        "stt": "45",
+        "id": "DSA04017",
+        "name": "PHẦN TỬ KHÁC NHAU"
+    },
+    {
+        "stt": "46",
+        "id": "DSA04018",
+        "name": "ĐẾM SỐ 0"
+    },
+    {
+        "stt": "47",
+        "id": "DSA05001",
+        "name": "XÂU CON CHUNG DÀI NHẤT"
+    },
+    {
+        "stt": "48",
+        "id": "DSA05004",
+        "name": "DÃY CON TĂNG DÀI NHẤT"
+    },
+    {
+        "stt": "49",
+        "id": "DSA05008",
+        "name": "DÃY CON CÓ TỔNG BẰNG S"
+    },
+    {
+        "stt": "50",
+        "id": "DSA05012",
+        "name": "TỔ HỢP C(n, k)"
+    },
+    {
+        "stt": "51",
+        "id": "DSA05013",
+        "name": "BẬC THANG"
+    },
+    {
+        "stt": "52",
+        "id": "DSA05002",
+        "name": "DÃY CON LẶP LẠI DÀI NHẤT"
+    },
+    {
+        "stt": "53",
+        "id": "DSA05005",
+        "name": "SỐ BƯỚC ÍT NHẤT"
+    },
+    {
+        "stt": "54",
+        "id": "DSA05025",
+        "name": "CON ẾCH"
+    },
+    {
+        "stt": "55",
+        "id": "DSA05026",
+        "name": "XEM PHIM"
+    },
+    {
+        "stt": "56",
+        "id": "DSA05027",
+        "name": "CÁI TÚI"
+    },
+    {
+        "stt": "57",
+        "id": "DSA05029",
+        "name": "GIẢI MÃ"
+    },
+    {
+        "stt": "58",
+        "id": "DSA06001",
+        "name": "SẮP XẾP XEN KẼ"
+    },
+    {
+        "stt": "59",
+        "id": "DSA06002",
+        "name": "SẮP XẾP THEO GIÁ TRỊ TUYỆT ĐỐI"
+    },
+    {
+        "stt": "60",
+        "id": "DSA06003",
+        "name": "ĐỔI CHỖ ÍT NHẤT"
+    },
+    {
+        "stt": "61",
+        "id": "DSA06004",
+        "name": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 1"
+    },
+    {
+        "stt": "62",
+        "id": "DSA06005",
+        "name": "HỢP VÀ GIAO CỦA HAI DÃY SỐ 2"
+    },
+    {
+        "stt": "63",
+        "id": "DSA06006",
+        "name": "SẮP XẾP [0 1 2]"
+    },
+    {
+        "stt": "64",
+        "id": "DSA06007",
+        "name": "SẮP XẾP DÃY CON LIÊN TỤC"
+    },
+    {
+        "stt": "65",
+        "id": "DSA06008",
+        "name": "ĐẾM CẶP"
+    },
+    {
+        "stt": "66",
+        "id": "DSA06009",
+        "name": "CẶP SỐ TỔNG BẰNG K"
+    },
+    {
+        "stt": "67",
+        "id": "DSA06010",
+        "name": "SẮP XẾP CHỮ SỐ"
+    },
+    {
+        "stt": "68",
+        "id": "DSA06011",
+        "name": "TỔNG GẦN 0 NHẤT"
+    },
+    {
+        "stt": "69",
+        "id": "DSA06012",
+        "name": "PHẦN TỬ LỚN NHẤT"
+    },
+    {
+        "stt": "70",
+        "id": "DSA06013",
+        "name": "SỐ LẦN XUẤT HIỆN"
+    },
+    {
+        "stt": "71",
+        "id": "DSA06014",
+        "name": "TỔNG CẶP SỐ NGUYÊN TỐ"
+    },
+    {
+        "stt": "72",
+        "id": "DSA06015",
+        "name": "MERGE SORT"
+    },
+    {
+        "stt": "73",
+        "id": "DSA06016",
+        "name": "TÍCH LỚN NHẤT - NHỎ NHẤT"
+    },
+    {
+        "stt": "74",
+        "id": "DSA06017",
+        "name": "TRỘN HAI DÃY"
+    },
+    {
+        "stt": "75",
+        "id": "DSA06018",
+        "name": "BỔ SUNG PHẦN TỬ"
+    },
+    {
+        "stt": "76",
+        "id": "DSA06019",
+        "name": "SẮP XẾP THEO SỐ LẦN XUẤT HIỆN"
+    },
+    {
+        "stt": "77",
+        "id": "DSA06020",
+        "name": "TÌM KIẾM"
+    },
+    {
+        "stt": "78",
+        "id": "DSA06021",
+        "name": "TÌM KIẾM TRONG DÃY SẮP XẾP VÒNG"
+    },
+    {
+        "stt": "79",
+        "id": "DSA06022",
+        "name": "SỐ NHỎ NHẤT VÀ NHỎ THỨ HAI"
+    },
+    {
+        "stt": "80",
+        "id": "DSA07001",
+        "name": "NGĂN XẾP 1"
+    },
+    {
+        "stt": "81",
+        "id": "DSA07002",
+        "name": "NGĂN XẾP 2"
+    },
+    {
+        "stt": "82",
+        "id": "DSA07003",
+        "name": "KIỂM TRA BIỂU THỨC SỐ HỌC"
+    },
+    {
+        "stt": "83",
+        "id": "DSA07004",
+        "name": "ĐẾM SỐ DẤU NGOẶC ĐỔI CHIỀU"
+    },
+    {
+        "stt": "84",
+        "id": "DSA07009",
+        "name": "BIẾN ĐỔI TIỀN TỐ - TRUNG TỐ"
+    },
+    {
+        "stt": "85",
+        "id": "DSA07010",
+        "name": "BIẾN ĐỐI TIỀN TỐ - HẬU TỐ"
+    },
+    {
+        "stt": "86",
+        "id": "DSA07013",
+        "name": "TÍNH GIÁ TRỊ BIỂU THỨC HẬU TỐ"
+    },
+    {
+        "stt": "87",
+        "id": "DSA07014",
+        "name": "TÍNH GIÁ TRỊ BIỂU THỨC TIỀN TỐ"
+    },
+    {
+        "stt": "88",
+        "id": "DSA08001",
+        "name": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 1"
+    },
+    {
+        "stt": "89",
+        "id": "DSA08002",
+        "name": "CẤU TRÚC DỮ LIỆU HÀNG ĐỢI 2"
+    },
+    {
+        "stt": "90",
+        "id": "DSA08003",
+        "name": "HÀNG ĐỢI HAI ĐẦU (DEQUEUE)"
+    },
+    {
+        "stt": "91",
+        "id": "DSA08005",
+        "name": "SỐ NHỊ PHÂN TỪ 1 ĐẾN N"
+    },
+    {
+        "stt": "92",
+        "id": "DSA08006",
+        "name": "SỐ 0 VÀ SỐ 9"
+    },
+    {
+        "stt": "93",
+        "id": "DSA08007",
+        "name": "SỐ BDN 1"
+    },
+    {
+        "stt": "94",
+        "id": "DSA08008",
+        "name": "SỐ BDN 2"
+    },
+    {
+        "stt": "95",
+        "id": "DSA09013",
+        "name": "LIỆT KÊ CẠNH CẦU VỚI BFS"
+    },
+    {
+        "stt": "96",
+        "id": "DSA10004",
+        "name": "ĐƯỜNG ĐI VÀ CHU TRÌNH EULER VỚI ĐỒ THỊ VÔ HƯỚNG"
+    },
+    {
+        "stt": "97",
+        "id": "DSA10005",
+        "name": "CHU TRÌNH EULER TRONG ĐỒ THỊ CÓ HƯỚNG"
+    },
+    {
+        "stt": "98",
+        "id": "DSA11008",
+        "name": "KIỂM TRA NODE LÁ"
+    },
+    {
+        "stt": "99",
+        "id": "DSA04020",
+        "name": "TÌM KIẾM NHỊ PHÂN"
+    },
+    {
+        "stt": "100",
+        "id": "DSA08017",
+        "name": "SỐ LỘC PHÁT 1"
+    },
+    {
+        "stt": "101",
+        "id": "DSA08018",
+        "name": "SỐ LỘC PHÁT 2"
+    },
+    {
+        "stt": "102",
+        "id": "DSA08019",
+        "name": "SỐ LỘC PHÁT 3"
+    },
+    {
+        "stt": "103",
+        "id": "DSA07019",
+        "name": "HÌNH CHỮ NHẬT LỚN NHẤT"
+    },
+    {
+        "stt": "104",
+        "id": "DSA09005",
+        "name": "BFS TRÊN ĐỒ THỊ VÔ HƯỚNG"
+    },
+    {
+        "stt": "105",
+        "id": "DSA09006",
+        "name": "ĐƯỜNG ĐI THEO DFS VỚI ĐỒ THỊ VÔ HƯỚNG"
+    },
+    {
+        "stt": "106",
+        "id": "DSA09007",
+        "name": "ĐƯỜNG ĐI THEO BFS TRÊN ĐỒ THỊ VÔ HƯỚNG"
+    },
+    {
+        "stt": "107",
+        "id": "DSA09008",
+        "name": "ĐẾM SỐ THÀNH PHẦN LIÊN THÔNG"
+    },
+    {
+        "stt": "108",
+        "id": "DSA09018",
+        "name": "LIỆT KÊ ĐỈNH TRỤ"
+    },
+    {
+        "stt": "109",
+        "id": "DSA09019",
+        "name": "KIỂM TRA CHU TRÌNH"
+    },
+    {
+        "stt": "110",
+        "id": "DSA01016",
+        "name": "PHÂN TÍCH SỐ"
+    },
+    {
+        "stt": "111",
+        "id": "DSA01012",
+        "name": "MÃ GRAY 1"
+    },
+    {
+        "stt": "112",
+        "id": "DSA01017",
+        "name": "MÃ GRAY 3"
+    },
+    {
+        "stt": "113",
+        "id": "DSA01013",
+        "name": "MÃ GRAY 2"
+    },
+    {
+        "stt": "114",
+        "id": "DSA01009",
+        "name": "XÂU AB ĐẶC BIỆT"
+    },
+    {
+        "stt": "115",
+        "id": "DSA01010",
+        "name": "TẬP QUÂN SỰ"
+    },
+    {
+        "stt": "116",
+        "id": "DSA01011",
+        "name": "HOÁN VỊ TIẾP THEO CỦA CHUỖI SỐ"
+    },
+    {
+        "stt": "117",
+        "id": "DSA02008",
+        "name": "CHỌN SỐ TỪ MA TRẬN VUÔNG CẤP N"
+    },
+    {
+        "stt": "118",
+        "id": "DSA01015",
+        "name": "TÌM BỘI SỐ"
+    },
+    {
+        "stt": "119",
+        "id": "DSA02004",
+        "name": "DI CHUYỂN TRONG MÊ CUNG 2"
+    },
+    {
+        "stt": "120",
+        "id": "DSA02007",
+        "name": "ĐỔI CHỖ CÁC CHỮ SỐ"
+    },
+    {
+        "stt": "121",
+        "id": "DSA02013",
+        "name": "SỐ NGUYÊN TỐ"
+    },
+    {
+        "stt": "122",
+        "id": "DSA02017",
+        "name": "SẮP XẾP QUÂN HẬU 2"
+    },
+    {
+        "stt": "123",
+        "id": "DSA01014",
+        "name": "TẬP HỢP"
+    },
+    {
+        "stt": "124",
+        "id": "DSA03007",
+        "name": "GIÁ TRỊ NHỎ NHẤT CỦA BIỂU THỨC"
+    },
+    {
+        "stt": "125",
+        "id": "DSA03008",
+        "name": "SẮP XẾP CÔNG VIỆC 1"
+    },
+    {
+        "stt": "126",
+        "id": "DSA03009",
+        "name": "SẮP XẾP CÔNG VIỆC 2"
+    },
+    {
+        "stt": "127",
+        "id": "DSA03011",
+        "name": "NỐI DÂY 2"
+    },
+    {
+        "stt": "128",
+        "id": "DSA03016",
+        "name": "SỐ NHỎ NHẤT"
+    },
+    {
+        "stt": "129",
+        "id": "DSA03017",
+        "name": "GIÁ TRỊ NHỎ NHẤT CỦA XÂU"
+    },
+    {
+        "stt": "130",
+        "id": "DSA03018",
+        "name": "SỐ MAY MẮN"
+    },
+    {
+        "stt": "131",
+        "id": "DSA03019",
+        "name": "PHÂN SỐ ĐƠN VỊ"
+    },
+    {
+        "stt": "132",
+        "id": "DSA03020",
+        "name": "BIỂU THỨC ĐÚNG"
+    },
+    {
+        "stt": "133",
+        "id": "DSA04007",
+        "name": "HỆ CƠ SỐ K"
+    },
+    {
+        "stt": "134",
+        "id": "DSA04013",
+        "name": "SẮP XẾP KANGURU"
+    },
+    {
+        "stt": "135",
+        "id": "DSA04008",
+        "name": "SỐ FIBONACCI THỨ N"
+    },
+    {
+        "stt": "136",
+        "id": "DSA04009",
+        "name": "LŨY THỪA MA TRẬN 1"
+    },
+    {
+        "stt": "137",
+        "id": "DSA04012",
+        "name": "TÍCH ĐA THỨC"
+    },
+    {
+        "stt": "138",
+        "id": "DSA04011",
+        "name": "TÍCH HAI SỐ NHỊ PHÂN"
+    },
+    {
+        "stt": "139",
+        "id": "DSA05018",
+        "name": "XÂU CON ĐỐI XỨNG DÀI NHẤT"
+    },
+    {
+        "stt": "140",
+        "id": "DSA05019",
+        "name": "HÌNH VUÔNG LỚN NHẤT"
+    },
+    {
+        "stt": "141",
+        "id": "DSA05020",
+        "name": "ĐƯỜNG ĐI NHỎ NHẤT"
+    },
+    {
+        "stt": "142",
+        "id": "DSA05014",
+        "name": "CATALAN NUMBER"
+    },
+    {
+        "stt": "143",
+        "id": "DSA05015",
+        "name": "TÍNH P(N,K)"
+    },
+    {
+        "stt": "144",
+        "id": "DSA05016",
+        "name": "SỐ UGLY"
+    },
+    {
+        "stt": "145",
+        "id": "DSA05003",
+        "name": "DÃY CON CHUNG DÀI NHẤT CỦA BA XÂU"
+    },
+    {
+        "stt": "146",
+        "id": "DSA05006",
+        "name": "TỔNG LỚN NHẤT CỦA DÃY CON TĂNG DẦN"
+    },
+    {
+        "stt": "147",
+        "id": "DSA05017",
+        "name": "DÃY SỐ BI-TONIC"
+    },
+    {
+        "stt": "148",
+        "id": "DSA05022",
+        "name": "KÝ TỰ GIỐNG NHAU"
+    },
+    {
+        "stt": "149",
+        "id": "DSA05023",
+        "name": "TỔNG CÁC XÂU CON"
+    },
+    {
+        "stt": "150",
+        "id": "DSA05024",
+        "name": "TỔNG BẰNG K"
+    },
+    {
+        "stt": "151",
+        "id": "DSA05007",
+        "name": "TỔNG LỚN NHẤT CỦA DÃY CON KHÔNG KỀ NHAU"
+    },
+    {
+        "stt": "152",
+        "id": "DSA05028",
+        "name": "BIẾN ĐỔI XÂU"
+    },
+    {
+        "stt": "153",
+        "id": "DSA05031",
+        "name": "TỔNG BÌNH PHƯƠNG"
+    },
+    {
+        "stt": "154",
+        "id": "DSA07008",
+        "name": "BIẾN ĐỔI TRUNG TỐ - HẬU TỐ"
+    },
+    {
+        "stt": "155",
+        "id": "DSA07011",
+        "name": "BIẾN ĐỔI HẬU TỐ - TIỀN TỐ"
+    },
+    {
+        "stt": "156",
+        "id": "DSA07012",
+        "name": "BIẾN ĐỔI HẬU TỐ - TRUNG TỐ"
+    },
+    {
+        "stt": "157",
+        "id": "DSA07016",
+        "name": "BIỂU THỨC TĂNG GIẢM"
+    },
+    {
+        "stt": "158",
+        "id": "DSA07017",
+        "name": "PHẦN TỬ BÊN PHẢI NHỎ HƠN"
+    },
+    {
+        "stt": "159",
+        "id": "DSA08004",
+        "name": "GIÁ TRỊ NHỎ NHẤT CỦA XÂU"
+    },
+    {
+        "stt": "160",
+        "id": "DSA08009",
+        "name": "BIẾN ĐỔI S – T"
+    },
+    {
+        "stt": "161",
+        "id": "DSA09009",
+        "name": "TÌM SỐ THÀNH PHẦN LIÊN THÔNG VỚI BFS"
+    },
+    {
+        "stt": "162",
+        "id": "DSA09010",
+        "name": "KIỂM TRA TÍNH LIÊN THÔNG MẠNH VỚI BFS"
+    },
+    {
+        "stt": "163",
+        "id": "DSA09012",
+        "name": "LIỆT KÊ ĐỈNH TRỤ VỚI BFS"
+    },
+    {
+        "stt": "164",
+        "id": "DSA09014",
+        "name": "KIỂM TRA CHU TRÌNH VỚI BFS"
+    },
+    {
+        "stt": "165",
+        "id": "DSA10003",
+        "name": "KIỂM TRA CHU TRÌNH SỬ DỤNG DISJOIN SET"
+    },
+    {
+        "stt": "166",
+        "id": "DSA09016",
+        "name": "KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ CÓ HƯỚNG VỚI DFS"
+    },
+    {
+        "stt": "167",
+        "id": "DSA09015",
+        "name": "KIỂM TRA CHU TRÌNH TRÊN ĐỒ THỊ CÓ HƯỚNG VỚI BFS"
+    },
+    {
+        "stt": "168",
+        "id": "DSA09017",
+        "name": "KIỂM TRA ĐỒ THỊ CÓ PHẢI LÀ CÂY HAY KHÔNG"
+    },
+    {
+        "stt": "169",
+        "id": "DSA09011",
+        "name": "SỐ LƯỢNG HÒN ĐẢO"
+    },
+    {
+        "stt": "170",
+        "id": "DSA10001",
+        "name": "TÌM ĐƯỜNG"
+    },
+    {
+        "stt": "171",
+        "id": "DSA10002",
+        "name": "KẾT BẠN"
+    },
+    {
+        "stt": "172",
+        "id": "DSA10006",
+        "name": "CÂY KHUNG CỦA ĐỒ THỊ THEO THUẬT TOÁN DFS"
+    },
+    {
+        "stt": "173",
+        "id": "DSA10007",
+        "name": "CÂY KHUNG CỦA ĐỒ THỊ THEO THUẬT TOÁN BFS"
+    },
+    {
+        "stt": "174",
+        "id": "DSA11001",
+        "name": "CÂY BIỂU THỨC 1"
+    },
+    {
+        "stt": "175",
+        "id": "DSA11002",
+        "name": "CÂY BIỂU THỨC 2"
+    },
+    {
+        "stt": "176",
+        "id": "DSA11003",
+        "name": "DUYỆT CÂY 1"
+    },
+    {
+        "stt": "177",
+        "id": "DSA11004",
+        "name": "DUYỆT CÂY THEO MỨC"
+    },
+    {
+        "stt": "178",
+        "id": "DSA11005",
+        "name": "DUYỆT CÂY 2"
+    },
+    {
+        "stt": "179",
+        "id": "DSA02023",
+        "name": "DI CHUYỂN"
+    },
+    {
+        "stt": "180",
+        "id": "DSA05034",
+        "name": "NHÀ KHÔNG KỀ NHAU"
+    },
+    {
+        "stt": "181",
+        "id": "DSA04026",
+        "name": "DÃY XÂU NHỊ PHÂN"
+    },
+    {
+        "stt": "182",
+        "id": "DSA05032",
+        "name": "XÂU ĐỐI XỨNG 1"
+    },
+    {
+        "stt": "183",
+        "id": "DSA05033",
+        "name": "XÂU ĐỐI XỨNG 2"
+    },
+    {
+        "stt": "184",
+        "id": "DSA10008",
+        "name": "DIJKSTRA"
+    },
+    {
+        "stt": "185",
+        "id": "DSA10009",
+        "name": "FLOYD"
+    },
+    {
+        "stt": "186",
+        "id": "DSA02011",
+        "name": "MÁY ATM"
+    },
+    {
+        "stt": "187",
+        "id": "DSA02009",
+        "name": "CHIA MẢNG"
+    },
+    {
+        "stt": "188",
+        "id": "DSA02010",
+        "name": "TỔ HỢP SỐ CÓ TỔNG BẰNG X"
+    },
+    {
+        "stt": "189",
+        "id": "DSA02015",
+        "name": "LOẠI BỎ DẤU NGOẶC"
+    },
+    {
+        "stt": "190",
+        "id": "DSA02022",
+        "name": "NGƯỜI DU LỊCH"
+    },
+    {
+        "stt": "191",
+        "id": "DSA03014",
+        "name": "SỐ KHỐI LẬP PHƯƠNG"
+    },
+    {
+        "stt": "192",
+        "id": "DSA04006",
+        "name": "ĐẾM SỐ BÍT 1"
+    },
+    {
+        "stt": "193",
+        "id": "DSA04014",
+        "name": "CẶP NGHỊCH THẾ"
+    },
+    {
+        "stt": "194",
+        "id": "DSA05010",
+        "name": "DÃY CON DÀI NHẤT CÓ TỔNG CHIA HẾT CHO K"
+    },
+    {
+        "stt": "195",
+        "id": "DSA05011",
+        "name": "SỐ CÓ TỔNG CHỮ SỐ BẰNG K"
+    },
+    {
+        "stt": "196",
+        "id": "DSA05021",
+        "name": "CẶP SỐ"
+    },
+    {
+        "stt": "197",
+        "id": "DSA05030",
+        "name": "DI CHUYỂN VỀ GỐC TỌA ĐỘ"
+    },
+    {
+        "stt": "198",
+        "id": "DSA07005",
+        "name": "BIỂU THỨC TƯƠNG ĐƯƠNG"
+    },
+    {
+        "stt": "199",
+        "id": "DSA07006",
+        "name": "XÓA DẤU NGOẶC"
+    },
+    {
+        "stt": "200",
+        "id": "DSA07007",
+        "name": "SO SÁNH BIỂU THỨC"
+    },
+    {
+        "stt": "201",
+        "id": "DSA07018",
+        "name": "TỔNG ĐA THỨC"
+    },
+    {
+        "stt": "202",
+        "id": "DSA08010",
+        "name": "BIẾN ĐỔI SỐ TỰ NHIÊN"
+    },
+    {
+        "stt": "203",
+        "id": "DSA08012",
+        "name": "TÌM SỐ K THỎA MÃN ĐIỀU KIỆN"
+    },
+    {
+        "stt": "204",
+        "id": "DSA11017",
+        "name": "DUYỆT CÂY NHỊ PHÂN TÌM KIẾM 1"
+    },
+    {
+        "stt": "205",
+        "id": "DSA11006",
+        "name": "DUYỆT CÂY KIỂU XOẮN ỐC"
+    },
+    {
+        "stt": "206",
+        "id": "DSA11007",
+        "name": "DUYỆT CÂY THEO MỨC ĐẢO NGƯỢC"
+    },
+    {
+        "stt": "207",
+        "id": "DSA11009",
+        "name": "CÂY NHỊ PHÂN TỔNG"
+    },
+    {
+        "stt": "208",
+        "id": "DSA11010",
+        "name": "CÂY NHỊ PHÂN HOÀN HẢO"
+    },
+    {
+        "stt": "209",
+        "id": "DSA11011",
+        "name": "CÂY NHỊ PHÂN ĐỦ"
+    },
+    {
+        "stt": "210",
+        "id": "DSA11012",
+        "name": "CÂY NHỊ PHÂN BẰNG NHAU"
+    },
+    {
+        "stt": "211",
+        "id": "DSA11013",
+        "name": "TỔNG NODE LÁ BÊN TRÁI"
+    },
+    {
+        "stt": "212",
+        "id": "DSA11014",
+        "name": "TỔNG NODE LÁ BÊN PHẢI"
+    },
+    {
+        "stt": "213",
+        "id": "DSA11015",
+        "name": "TỔNG LỚN NHẤT"
+    },
+    {
+        "stt": "214",
+        "id": "DSA11016",
+        "name": "BIẾN ĐỔI SANG CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "215",
+        "id": "DSA11018",
+        "name": "XÂY DỰNG LẠI CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "216",
+        "id": "DSA11019",
+        "name": "DUYỆT CÂY NHỊ PHÂN TÌM KIẾM 2"
+    },
+    {
+        "stt": "217",
+        "id": "DSA11020",
+        "name": "KIỂM TRA CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "218",
+        "id": "DSA11021",
+        "name": "NODE LÁ CỦA CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "219",
+        "id": "DSA11022",
+        "name": "NODE TRUNG GIAN CỦA CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "220",
+        "id": "DSA11023",
+        "name": "ĐỘ SÂU CÂY NHỊ PHÂN TÌM KIẾM"
+    },
+    {
+        "stt": "221",
+        "id": "DSA11024",
+        "name": "CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG 1"
+    },
+    {
+        "stt": "222",
+        "id": "DSA11025",
+        "name": "CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG 2"
+    },
+    {
+        "stt": "223",
+        "id": "DSA01018",
+        "name": "TẬP CON LIỀN KỀ PHÍA TRƯỚC"
+    },
+    {
+        "stt": "224",
+        "id": "DSA04021",
+        "name": "LŨY THỪA MA TRẬN 2"
+    },
+    {
+        "stt": "225",
+        "id": "DSA04022",
+        "name": "LŨY THỪA MA TRẬN 3"
+    },
+    {
+        "stt": "226",
+        "id": "DSA04023",
+        "name": "LŨY THỪA MA TRẬN 4"
+    },
+    {
+        "stt": "227",
+        "id": "DSA04024",
+        "name": "LŨY THỪA MA TRẬN 5"
+    },
+    {
+        "stt": "228",
+        "id": "DSA04025",
+        "name": "LŨY THỪA MA TRẬN 6"
+    },
+    {
+        "stt": "229",
+        "id": "DSA10011",
+        "name": "DI CHUYỂN TRÊN BẢNG SỐ"
+    },
+    {
+        "stt": "230",
+        "id": "DSA11028",
+        "name": "ĐỘ CAO CỦA CÂY"
+    },
+    {
+        "stt": "231",
+        "id": "DSA08020",
+        "name": "BIẾN ĐỔI SỐ NGUYÊN TỐ"
+    },
+    {
+        "stt": "232",
+        "id": "DSA10010",
+        "name": "ĐẾM ĐƯỜNG ĐI NGẮN NHẤT"
+    },
+    {
+        "stt": "233",
+        "id": "DSA02014",
+        "name": "TỪ ĐIỂN"
+    },
+    {
+        "stt": "234",
+        "id": "DSA02018",
+        "name": "BIỂU THỨC TOÁN HỌC"
+    },
+    {
+        "stt": "235",
+        "id": "DSA02019",
+        "name": "ĐƯỜNG ĐI DÀI NHẤT"
+    },
+    {
+        "stt": "236",
+        "id": "DSA02020",
+        "name": "SỐ NHỎ NHẤT CÓ N ƯỚC SỐ"
+    },
+    {
+        "stt": "237",
+        "id": "DSA02021",
+        "name": "KÝ TỰ ĐẶC BIỆT"
+    },
+    {
+        "stt": "238",
+        "id": "DSA07015",
+        "name": "TÍNH TOÁN GIÁ TRỊ BIỂU THỨC TRUNG TỐ"
+    },
+    {
+        "stt": "239",
+        "id": "DSA08011",
+        "name": "KHOẢNG CÁCH XÂU KÝ TỰ"
+    },
+    {
+        "stt": "240",
+        "id": "DSA08013",
+        "name": "DI CHUYỂN TRÁNH VẬT CẢN"
+    },
+    {
+        "stt": "241",
+        "id": "DSA08014",
+        "name": "GIEO MẦM"
+    },
+    {
+        "stt": "242",
+        "id": "DSA08015",
+        "name": "DI CHUYỂN TRONG KHÔNG GIAN"
+    },
+    {
+        "stt": "243",
+        "id": "DSA07022",
+        "name": "PHẦN TỬ CÓ SỐ LẦN XUẤT HIỆN NHIỀU HƠN BÊN PHẢI"
+    },
+    {
+        "stt": "244",
+        "id": "DSA10012",
+        "name": "ĐƯỜNG ĐI TRUNG BÌNH"
+    },
+    {
+        "stt": "245",
+        "id": "DSA11026",
+        "name": "DUYỆT SAU CÂY TÌM KIẾM CÂN BẰNG"
+    },
+    {
+        "stt": "246",
+        "id": "DSA11027",
+        "name": "ĐẾM SỐ NODE LÁ CÂY NHỊ PHÂN TÌM KIẾM CÂN BẰNG"
+    },
+    {
+        "stt": "247",
+        "id": "DSA11029",
+        "name": "ĐƯỜNG ĐI TỚI NODE LÁ"
+    },
+    {
+        "stt": "248",
+        "id": "DSA11030",
+        "name": "KHOẢNG CÁCH GIỮA HAI NODE"
+    },
+    {
+        "stt": "249",
+        "id": "DSA04019",
+        "name": "CẶP ĐIỂM GẦN NHẤT"
+    },
+    {
+        "stt": "250",
+        "id": "DSA08016",
+        "name": "HEXGAME"
+    }
+]
