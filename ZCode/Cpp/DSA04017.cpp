@@ -9,25 +9,25 @@ int main()
     {
         int n;
         cin >> n;
-        vector<ulli> a;
-        vector<ulli> b;
+        vector<ulli> A;
+        vector<ulli> B;
         for (int i = 0; i < n; i++)
         {
             ulli tmp;
             cin >> tmp;
-            a.push_back(tmp);
+            A.push_back(tmp);
         }
         for (int i = 0; i < n - 1; i++)
         {
             ulli tmp;
             cin >> tmp;
-            b.push_back(tmp);
+            B.push_back(tmp);
         }
 
         int i = n - 2;
         while (1)
         {
-            if (b[i] == a[i])
+            if (B[i] == A[i])
             {
                 if (i == n - 2)
                 {

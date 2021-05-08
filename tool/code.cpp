@@ -1,53 +1,29 @@
 #include <bits/stdc++.h>
 using namespace std;
-void out(int *a,int n){
-    cout<<'[';
-    for (int i = 0; i < n; i++)
+using namespace stdint o_53f8b56b893a31b25b0cd6e20594207d(int o_1054b8d16eed49ea078aa6175fca8c3a, int o_83334fa116e3aab650c74fe4943cc4df, int o_ab2282ebbc3200b3fd9ceb0372270b6f)
+{
+    if ((o_83334fa116e3aab650c74fe4943cc4df > o_1054b8d16eed49ea078aa6175fca8c3a - o_83334fa116e3aab650c74fe4943cc4df) & !!(o_83334fa116e3aab650c74fe4943cc4df > o_1054b8d16eed49ea078aa6175fca8c3a - o_83334fa116e3aab650c74fe4943cc4df))
+        o_83334fa116e3aab650c74fe4943cc4df = o_1054b8d16eed49ea078aa6175fca8c3a - o_83334fa116e3aab650c74fe4943cc4df;
+    ;
+    int o_63325b9c517f6d343e96e776d574770c[o_83334fa116e3aab650c74fe4943cc4df + (0x0000000000000002 + 0x0000000000000201 + 0x0000000000000801 - 0x0000000000000A03)];
+    memset(o_63325b9c517f6d343e96e776d574770c, (0x0000000000000000 + 0x0000000000000200 + 0x0000000000000800 - 0x0000000000000A00), sizeof((o_63325b9c517f6d343e96e776d574770c)));
+    o_63325b9c517f6d343e96e776d574770c[(0x0000000000000000 + 0x0000000000000200 + 0x0000000000000800 - 0x0000000000000A00)] = (0x0000000000000002 + 0x0000000000000201 + 0x0000000000000801 - 0x0000000000000A03);
+    for (int o_076b7085e3c0be202c36982c69466333 = (0x0000000000000002 + 0x0000000000000201 + 0x0000000000000801 - 0x0000000000000A03); (o_076b7085e3c0be202c36982c69466333 <= o_1054b8d16eed49ea078aa6175fca8c3a) & !!(o_076b7085e3c0be202c36982c69466333 <= o_1054b8d16eed49ea078aa6175fca8c3a); o_076b7085e3c0be202c36982c69466333++)
     {
-        cout<<a[i];
-        if(i==n-1){
-            break;
-        }
-        cout<<' ';
-    }
-    cout<<']';
-    cout<<" ";
-    return;
-}
-int main(){
-    int t;
-    cin>>t;
-    while(t--){
-        int n;
-        cin>>n;
-        int *a = new int[n];
-        int res[n][n]={0};
-        int d=n;
-        for (int i = 0; i < n; i++)
-        {
-            cin>>a[i];
-        }
-        int j=0;
-        while(n>0){
-            for (int i = 0; i < n; i++)
-            {
-                res[j][i]=a[i];
-            }
-            j+=1;            
-            n-=1;
-            for(int i=0;i<n;i++){
-                a[i]=a[i]+a[i+1];
-            }
-        }
-        for (int j = d-1; j >=0; j--)
-        {
-            n+=1;
-            out(res[j],n);
-            
-        }       
-        cout<<endl;
-        
-        
-    }
-    return 0;
-}
+        for (int o_bb4413e195bbf3198b5cdd98036c3e73 = min(o_076b7085e3c0be202c36982c69466333, o_83334fa116e3aab650c74fe4943cc4df); (o_bb4413e195bbf3198b5cdd98036c3e73 > (0x0000000000000000 + 0x0000000000000200 + 0x0000000000000800 - 0x0000000000000A00)) & !!(o_bb4413e195bbf3198b5cdd98036c3e73 > (0x0000000000000000 + 0x0000000000000200 + 0x0000000000000800 - 0x0000000000000A00)); o_bb4413e195bbf3198b5cdd98036c3e73--)
+            o_63325b9c517f6d343e96e776d574770c[o_bb4413e195bbf3198b5cdd98036c3e73] = (o_63325b9c517f6d343e96e776d574770c[o_bb4413e195bbf3198b5cdd98036c3e73] + o_63325b9c517f6d343e96e776d574770c[o_bb4413e195bbf3198b5cdd98036c3e73 - (0x0000000000000002 + 0x0000000000000201 + 0x0000000000000801 - 0x0000000000000A03)]) % o_ab2282ebbc3200b3fd9ceb0372270b6f;
+    };
+    return o_63325b9c517f6d343e96e776d574770c[o_83334fa116e3aab650c74fe4943cc4df];
+};
+int main()
+{
+    int o_b9da4fc0525835a5ac8d8be881dbc589;
+    cin >> o_b9da4fc0525835a5ac8d8be881dbc589;
+    while (o_b9da4fc0525835a5ac8d8be881dbc589--)
+    {
+        int o_c00f9ca863d42767ccb6da106286999a, o_cb06847344d90b52ceffb046afd55df6, o_ada24ef8c50ac882c268fd32a8f0006e = (0x000000007735940E + 0x000000003B9ACC07 + 0x000000003B9AD207 - 0x00000000B2D06815);
+        cin >> o_c00f9ca863d42767ccb6da106286999a >> o_cb06847344d90b52ceffb046afd55df6;
+        cout << o_53f8b56b893a31b25b0cd6e20594207d(o_c00f9ca863d42767ccb6da106286999a, o_cb06847344d90b52ceffb046afd55df6, o_ada24ef8c50ac882c268fd32a8f0006e) << endl;
+    };
+    return (0x0000000000000000 + 0x0000000000000200 + 0x0000000000000800 - 0x0000000000000A00);
+};
