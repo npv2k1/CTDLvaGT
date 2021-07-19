@@ -1,17 +1,30 @@
 import os
 import time
 import subprocess
-t = time.time()
-subprocess.run(['g++','code.cpp','-o','tmp.exe'])
-# try:
-#     os.system("g++ code.cpp -o tmp.exe")
-# except:
-#     print("ERR")
-os.system("tmp.exe < input.txt > tmp.txt")
-print(time.time()-t)
-f = open('output.txt','r').read().strip();
-tmp = open('tmp.txt','r').read().strip();
-if(f==tmp):
-    print("OK")
+import compare
+
+compileTimeout = 5
+runTimeout = 5
+compare.formatInput('input.txt')
+compare.formatInput('dest.txt')
+compileProc = subprocess.run(
+    ['g++', 'code.cpp', '-o', 'tmp.exe'], timeout=compileTimeout, capture_output=True)
+err = compileProc.stderr
+
+if err != b'':
+    print("Compile ERROR", err.decode())
 else:
-    print("WA")
+    try:
+        t = time.time()
+        runProc = subprocess.Popen(
+            args=["tmp.exe"], stdout=subprocess.PIPE, stdin=subprocess.PIPE)
+        grep_stdout = runProc.communicate(
+            input=open('input.txt', 'rb').read(), timeout=runTimeout)[0]
+        print(grep_stdout.decode())
+        with open("output.txt", 'w', encoding='utf-8', newline='\n') as f:
+            f.write(grep_stdout.decode())
+        print("RUN TIME: ", (time.time()-t))
+        compare.compareFile('output.txt', 'dest.txt')
+    except Exception:
+        print("TLE")
+        runProc.kill()

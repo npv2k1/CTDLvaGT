@@ -1,3 +1,2 @@
-2
-I like this program very much
-much very program this like I
+6
+5 10 -2 3 5 2
